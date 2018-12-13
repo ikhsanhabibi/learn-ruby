@@ -18,7 +18,7 @@ def calculator
     (first.to_i,
     operator.to_s,
     second.to_i)
-   
+
     print first, operator, second
 end
 

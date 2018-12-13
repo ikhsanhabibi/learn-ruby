@@ -1,23 +1,5 @@
 # learn-ruby notes
 
-# link to learn ruby:
-
-http://ruby-for-beginners.rubymonstas.org/index.html
-
-# Tools
-
-- Interactive Ruby Shell
-- Ruby runtime
-
-# what to do :
-
-- Check ruby version ruby -v
-- Install ruby on mac by using Homebrew \$ brew install ruby
-- If you’re using macOS open up Terminal and type irb, then hit enter.
-- Terminate the input Ctrl-C, exit ruby shell Ctrl-D
-- No automated function using TAB, manual typing on ruby shell
-- Create ruby project in GitHub, and run it
-
 # Introduction
 
 - OOP (everything is an object)
@@ -38,14 +20,14 @@ http://ruby-for-beginners.rubymonstas.org/index.html
 
 # Ruby on Rails
 
-- used by web dev
+- used by web developer
 - it is different from Ruby
 
 # OOP (Exercise)
 
 - real life objects (computer)
 - attribute using noun: key value pair (color : silver)
-- method/functional using verb (write, erase)
+- method/functional using verb (turn on, turn off)
 
 # RVM (Ruby Version Manager)
 
@@ -53,3 +35,40 @@ http://ruby-for-beginners.rubymonstas.org/index.html
 - to install, manage, work with ruby env
 - source ~/.rvm/scripts/rvm
 - install : \curl -sSL https://get.rvm.io | bash -s stable
+
+# Atom setttings
+- indent tab : default 2
+- theme: ayu mirage
+- atom runner : ctrl+R
+- Atom beautify (Rubocop) : sudo gem install rubocop
+
+# Run on the Terminal
+- ruby example.rb (filename)
+
+# IRB (Interactive Ruby Shell) : Sandbox
+- command per line
+- exit/quit : ctrl+C
+
+# RAPL
+- read
+- evaluate
+- print
+- loop
+
+# Code example on irb console
+- irb(main):001:0> 3+2
+- => 5 //output
+- => nil // not returning something
+
+# RubyGems
+- RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries, a tool designed to easily manage the installation of gems, and a server for distributing them.
+
+# Variables
+- ref to an object, example: string
+- not an object, but placeholder for an object
+- dynamically typed
+- right side of the equal sign is ALWAYS evaluated first
+- lowercase with underscore
+- space not allowed
+- case sensitive
+- don't use reserved keywords
