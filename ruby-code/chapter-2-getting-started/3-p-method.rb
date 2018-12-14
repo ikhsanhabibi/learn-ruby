@@ -3,7 +3,7 @@
 p 'Hello'
 
 puts "hi there is
-line brak"
+line break"
 
 # more descriptive / literal
 p "hi there is

@@ -72,3 +72,7 @@
 - space not allowed
 - case sensitive
 - don't use reserved keywords
+
+# Parameter
+- input
+- an argument

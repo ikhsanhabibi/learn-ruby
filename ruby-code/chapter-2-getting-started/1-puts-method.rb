@@ -16,3 +16,5 @@ puts
 puts
 puts
 puts 'hello'
+
+# puts return nil : nothing
