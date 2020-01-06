@@ -76,3 +76,7 @@
 # Parameter
 - input
 - an argument
+
+
+# Configure SDK in Rubymine on Windows
+https://stackoverflow.com/questions/15183380/error-on-running-ruby-code-named-no-sdks-specified
