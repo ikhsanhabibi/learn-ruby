@@ -80,3 +80,8 @@
 
 # Configure SDK in Rubymine on Windows
 https://stackoverflow.com/questions/15183380/error-on-running-ruby-code-named-no-sdks-specified
+
+
+# GITHUB PAGES
+
+- How to solve 'libcurl' not found with Rails on Windows: https://stackoverflow.com/questions/39377541/how-to-solve-libcurl-not-found-with-rails-on-windows
